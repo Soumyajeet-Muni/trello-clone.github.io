@@ -28,4 +28,4 @@ In the project directory, you can run:
 Builds the app for production to the `build` folder.<br />
 
 netlify link:
-(https://6418daa70b95f800a4c9bca1--ubiquitous-kataifi-b40c77.netlify.app/board)
+[1](https://6418daa70b95f800a4c9bca1--ubiquitous-kataifi-b40c77.netlify.app/board)
